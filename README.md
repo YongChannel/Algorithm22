@@ -13,3 +13,8 @@ https://velog.io/@yongchan_0312/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC
 ## 2022.01.06
 #### (프로그래머스) 약수의 개수와 덧셈
 https://velog.io/@yongchan_0312/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%95%BD%EC%88%98%EC%9D%98-%EA%B0%9C%EC%88%98%EC%99%80-%EB%8D%A7%EC%85%88
+
+## 2022.01.07
+#### (프로그래머스) 부족한 금액 계산하기
+https://velog.io/@yongchan_0312/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%B6%80%EC%A1%B1%ED%95%9C-%EA%B8%88%EC%95%A1-%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0
+
