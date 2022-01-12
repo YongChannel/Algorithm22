@@ -24,3 +24,10 @@ https://velog.io/@yongchan_0312/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC
 
 #### (프로그래머스) 자연수 뒤집어 배열로 만들기
 https://velog.io/@yongchan_0312/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%9E%90%EC%97%B0%EC%88%98-%EB%92%A4%EC%A7%91%EC%96%B4-%EB%B0%B0%EC%97%B4%EB%A1%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0
+
+## 2022.01.12
+#### (프로그래머스) 제일 작은 수 제거하기
+https://velog.io/@yongchan_0312/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%A0%9C%EC%9D%BC-%EC%9E%91%EC%9D%80-%EC%88%98-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0
+
+#### (프로그래머스) 문자열 다루기 기본
+https://velog.io/@yongchan_0312/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%8B%A4%EB%A3%A8%EA%B8%B0-%EA%B8%B0%EB%B3%B8
