@@ -32,13 +32,13 @@ https://velog.io/@yongchan_0312/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC
 #### (프로그래머스) 문자열 다루기 기본
 https://velog.io/@yongchan_0312/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%8B%A4%EB%A3%A8%EA%B8%B0-%EA%B8%B0%EB%B3%B8
 
-## 2022.01.16
-#### (프로그래머스) 로또의 최고 순위와 최저 순위
-https://velog.io/@yongchan_0312/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%A1%9C%EB%98%90%EC%9D%98-%EC%B5%9C%EA%B3%A0-%EC%88%9C%EC%9C%84%EC%99%80-%EC%B5%9C%EC%A0%80-%EC%88%9C%EC%9C%84
-
 ## 2022.01.13
 #### (프로그래머스) 문자열 내 p와 y의 개수
 https://velog.io/@yongchan_0312/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%82%B4p%EC%99%80-y%EC%9D%98-%EA%B0%9C%EC%88%98
 
 #### (프로그래머스) 가운데 글자 가져오기
 https://velog.io/@yongchan_0312/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EA%B0%80%EC%9A%B4%EB%8D%B0-%EA%B8%80%EC%9E%90-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0
+
+## 2022.01.16
+#### (프로그래머스) 로또의 최고 순위와 최저 순위
+https://velog.io/@yongchan_0312/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%A1%9C%EB%98%90%EC%9D%98-%EC%B5%9C%EA%B3%A0-%EC%88%9C%EC%9C%84%EC%99%80-%EC%B5%9C%EC%A0%80-%EC%88%9C%EC%9C%84
